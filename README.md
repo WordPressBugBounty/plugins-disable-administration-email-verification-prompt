@@ -1,0 +1,1 @@
+# plugins-disable-administration-email-verification-prompt
